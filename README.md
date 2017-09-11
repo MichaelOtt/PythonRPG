@@ -1,0 +1,1 @@
+2014 - Simple RPG where the player progresses through simple generated levels and collects better equipment. This was done with one other person and the goals + update history are in the other README.
